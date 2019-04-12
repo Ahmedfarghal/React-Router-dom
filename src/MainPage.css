@@ -1,0 +1,51 @@
+.navigation {
+  display: flex;
+  height: -webkit-fill-available;
+  margin: 0;
+  padding: 0;
+  }
+
+.mainPage-p {
+  text-align: center;
+  font-size: 21px;
+  margin-top: 18em;
+  font-family: fantasy;
+  text-shadow: 2px 2px 14px #fff;
+  font-weight: bolder;
+  }
+
+.About {
+  background-color: #EF7C00;
+  list-style: none;
+  width: 100%;  
+  }
+
+.Login {
+ background-color: #FFBE0B;
+ list-style: none;
+  width: 100%;
+  }
+
+.Policy {
+  background-color: #F55D3E;
+  list-style: none;
+  width: 100%;
+  }
+
+.Pricing {
+  background-color: #08BDBD;
+  list-style: none;
+  width: 100%;
+  }
+
+.Contactus {
+  background-color: #6699CC;
+  list-style: none;
+  width: 100%;
+  }
+
+  /* 
+color: #FFBE0B;
+color: #F55D3E;
+color: #08BDBD
+ */

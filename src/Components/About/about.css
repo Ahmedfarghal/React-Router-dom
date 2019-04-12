@@ -1,0 +1,24 @@
+.about {
+ background-color: #EF7C00;
+ height: -webkit-fill-available;
+
+}
+
+.maintitle-about {
+    font-size: 50px;
+    font-weight: 900;
+    font-family: fantasy;
+    text-align: center;
+     margin: 0;
+
+
+}
+
+
+.subTitle-about {
+    font-size: 50px;
+    font-weight: 900;
+    font-family: fantasy;
+    text-align: center;
+
+}
