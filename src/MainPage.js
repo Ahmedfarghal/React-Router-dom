@@ -14,7 +14,7 @@ class MainPage extends Component {
 
 <BrowserRouter>
   <Switch>
-    <Route exact path="/React-Router-dom"  render={()=>(
+    <Route exact path="/"  render={()=>(
       <ul className = "navigation" >
         <li className="About">
        <Link to="/About"> <p className="mainPage-p">About</p></Link>  
