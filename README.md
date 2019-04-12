@@ -1,5 +1,5 @@
 ## React-Router-dom
-Simple application to route between mainPage, About page, ContactUs Page, Login Page, Policy page, pricing page, and page404 page
+Simple application to route between mainPage, About page, ContactUs Page, Login Page, Policy page, pricing page, and handeling error page404 page
 
 ## Pakage used
 
